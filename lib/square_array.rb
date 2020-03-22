@@ -6,3 +6,4 @@ new_array = []
   counter += 1
   end 
   return new_array
+end
